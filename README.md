@@ -1,2 +1,2 @@
 # PT-Document-Standard
-PT文档规范
+PT 文档规范
