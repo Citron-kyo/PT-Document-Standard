@@ -1,2 +1,2 @@
-# PT-Document-Standard
-PT 文档规范
+# Tsukigami-Document-Standard
+月上文档规范
